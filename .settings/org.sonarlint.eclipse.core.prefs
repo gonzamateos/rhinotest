@@ -1,6 +1,7 @@
-autoEnabled=false
+autoEnabled=true
 eclipse.preferences.version=1
 extraProperties=
 fileExclusions=
 moduleKey=rhinotest
+projectKey=rhinotest
 serverId=SonarCloud/gonzamateos-github
